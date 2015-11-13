@@ -1,0 +1,12 @@
+{
+	"name": "node-mongo-test",
+	"version": "0.0.1",
+	"main": "main.js",
+	"keywords": [],
+	"author": "An Hui",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": ""
+	}
+}
